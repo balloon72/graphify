@@ -1,0 +1,22 @@
+tests/test_analyze.py
+  s_1d8353b76eb031::t_2a1240fa45e476 8,606-616
+  s_1d8353b76eb031::t_49907b79b0015e 617-618
+graphify/analyze.py
+  s_1d8353b76eb031::t_a2c117e18e2057 507-510
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "d83e375a344dccebcca1ea181cc62c73fd3b3f38",
+  "prompts": {},
+  "sessions": {
+    "s_1d8353b76eb031": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f4c95-8b6d-7e03-9138-dab61e7ad1c3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "hanmo1 <hanmo1@lenovo.com>"
+    }
+  }
+}
