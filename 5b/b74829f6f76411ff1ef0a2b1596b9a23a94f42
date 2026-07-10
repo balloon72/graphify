@@ -1,0 +1,27 @@
+tests/test_extract.py
+  s_1d8353b76eb031::t_d6bb2f5d88b02e 1238,1249-1253,1255-1260
+  s_1d8353b76eb031::t_a8397790edc71f 1246
+  s_1d8353b76eb031::t_beec6473bcd9c6 1264-1277
+  s_1d8353b76eb031::t_ca3b23b408a213 1280-1292
+  s_1d8353b76eb031::t_3ee1560a671bd3 1213-1237,1239-1245,1247-1248,1254,1261-1263
+  s_1d8353b76eb031::t_2406ef324b2a35 1278-1279
+graphify/extractors/bash.py
+  s_1d8353b76eb031::t_829c58079728c6 65,165-167,188-194,201,203-204
+  s_1d8353b76eb031::t_33322bc8514a18 195-200,202
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "5bb74829f6f76411ff1ef0a2b1596b9a23a94f42",
+  "prompts": {},
+  "sessions": {
+    "s_1d8353b76eb031": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f4c95-8b6d-7e03-9138-dab61e7ad1c3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
